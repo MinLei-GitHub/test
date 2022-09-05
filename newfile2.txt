@@ -1,0 +1,4 @@
+file 2
+add line 1 aaa
+line 2 bbb:wq
+
